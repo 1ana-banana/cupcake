@@ -1,0 +1,17 @@
+.center {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 15%;
+}
+
+.flashy {
+  color: red;
+  font-style: italic;
+}
+
+.best {
+  font-size: larger;
+  color: blueviolet;
+  font-style: oblique;
+}
